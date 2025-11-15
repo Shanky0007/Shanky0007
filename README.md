@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/Shanky0007/aitherra<br>👯 I’m looking to collaborate on https://github.com/Shanky0007/Flint<br>🌱 I’m currently learning Docker<br>💬 Ask me about MERN,SDK,Kotlin,C/C++,DSA and more<br>📫 How to reach me sp777216@gmail.com
+🔭 I’m currently working on [Aitherra](https://github.com/Shanky0007/aitherra)<br>👯 I’m looking to collaborate on [Flint](https://github.com/Shanky0007/Flint)<br>🌱 I’m currently learning Docker<br>💬 Ask me about MERN,SDK,Kotlin,C/C++,DSA and more<br>📫 How to reach me sp777216@gmail.com
 
 
 ## 🌐 Socials:
